@@ -1,20 +1,39 @@
-🚀 DevSecOps Engineer | CI/CD | Jenkins & GitHub Actions | Cloud-Native Automation
+# 🚀 DevSecOps Engineer | CI/CD Enthusiast | Cloud-Native Automation
 
-I'm a DevSecOps Engineer with 3 years of industry experience, currently working on a large-scale healthcare project at Cognizant. I specialize in designing and maintaining secure, efficient CI/CD pipelines using Jenkins and GitHub Actions, leveraging shared libraries (Groovy & Python) for consistency and scalability.
+Hi there! I'm a DevSecOps Engineer with 3 years of hands-on experience, currently contributing to a large-scale healthcare project at Cognizant. My expertise lies in designing and maintaining secure, efficient CI/CD pipelines, leveraging tools like **Jenkins** and **GitHub Actions** with shared libraries in Groovy and Python to ensure consistency and scalability.
 
-💡 My work includes:
-- Creating and managing shared CI/CD libraries to standardize automation
-- Supporting production and release cycles for smooth deployments
-- Maintaining Grafana dashboards and Neo4j databases for job insights
-- Leveraging Azure Pipelines and cloud tools to boost developer velocity
+---
 
-🎯 I’m passionate about solving complex DevOps challenges, promoting security in pipelines, and continuous learning to stay ahead in a fast-paced industry.
+## 💡 What I Do
 
-📚 Certified in:
+- **CI/CD Automation:** Build and manage shared libraries to standardize automation across teams.
+- **Production & Release Support:** Streamline deployments for robust, reliable delivery cycles.
+- **Observability:** Maintain Grafana dashboards and Neo4j databases to provide actionable job insights.
+- **Cloud & Developer Velocity:** Harness Azure Pipelines and cloud-native tools to accelerate development workflows.
+
+---
+
+## 🎯 My Passion
+
+I'm deeply passionate about solving complex DevOps challenges, championing security in automation, and continuously learning to stay ahead in this ever-evolving field.
+
+---
+
+## 📚 Certifications
+
 - Jenkins, From Zero to Hero (2023)
 - DevOps Last Mile Program – Intermediate (2024)
 - Introduction to Prompt Engineering with GitHub Copilot (2024)
 
-Outside of work, I enjoy reading manga, listening to music, and travelling.
+---
 
-Let’s connect if you’re interested in DevOps, automation, or building smarter pipelines!
+## 🌱 Beyond Work
+
+Outside of work, you'll find me reading manga, enjoying music, and exploring new places.
+
+---
+
+**Let’s connect!**  
+If you're into DevOps, automation, or building smarter pipelines, feel free to reach out or collaborate!
+
+---
